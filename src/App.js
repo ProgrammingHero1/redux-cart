@@ -1,12 +1,12 @@
-import React from 'react';
-import './App.css';
-import Shop from './components/Shop/Shop';
-import Cart from './components/Cart/Cart';
+import React from "react";
+import "./App.css";
+import Shop from "./components/Shop/Shop";
+import Cart from "./components/Cart/Cart";
 
 function App() {
   return (
     <div>
-      <Cart></Cart>
+      {/* <Cart></Cart> */}
       <Shop></Shop>
     </div>
   );
